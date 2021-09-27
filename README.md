@@ -1,13 +1,21 @@
 # nlwValoriza
 
 -> Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe. {
+<br>
   Cadastro de Usuário
+<br>
   Cadastro de Tags (elogios possíveis e somente adm)
+<br>
   Cadastro de elogios (ID usuário receber elogio, ID usuário enviando elogio, ID tag, Data criação)
+<br>
   Autenticação de usuário (Gerar token JWT, Validar usuário logado nas rotas necessárias)
+<br>
   Listagem de usuários
+<br>
   Listagem de tags
+<br>
   Listagem de elogios por usuário
+<br>
 }
 
 -> Using Visual Studio Code and Google Chrome for coding.
