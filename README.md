@@ -2,6 +2,7 @@
 
 -> Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe. {
 <br>
+<br>
   Cadastro de Usuário
 <br>
   Cadastro de Tags (elogios possíveis e somente adm)
