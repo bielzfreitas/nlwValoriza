@@ -115,6 +115,7 @@ Iniciar o servidor com script
 -> yarn start
 
 Criar Rotas no Insomnia!
+Verificar o DB no Beekeeper!
 
 # Help
 <- Utilizar o terminal do próprio VS Code ->
