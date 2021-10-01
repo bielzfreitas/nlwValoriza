@@ -110,7 +110,7 @@ Instalar biblioteca para lidar com erros
 <br>
 -> yarn add express-async-errors
 
-### Iniciar o servidor com script
+Iniciar o servidor com script
 <br>
 -> yarn start
 
