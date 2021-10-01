@@ -85,7 +85,32 @@ Instalar dependência
 <br>
 -> yarn add ts-node-dev -D
 
-Iniciar o servidor com script
+Instalar TypeORM
+<br>
+-> yarn add typeorm reflect-metadata sqlite3
+
+Criar tabelas no banco
+<br>
+-> yarn typeorm migration:run
+
+Remover tabela
+<br>
+-> yarn typeorm migration:revert
+
+Criar a estrutura de forma rápida usando entidade como ex
+<br>
+-> yarn typeorm entity:create -n User
+
+Instalar biblioteca uuid
+<br>
+-> yarn add uuid
+-> yarn add @types/uuid -D
+
+Instalar biblioteca para lidar com erros
+<br>
+-> yarn add express-async-errors
+
+### Iniciar o servidor com script
 <br>
 -> yarn start
 
