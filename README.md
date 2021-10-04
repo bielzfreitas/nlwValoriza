@@ -112,12 +112,14 @@ Instalar biblioteca para lidar com erros
 
 Instalar biblioteca de token JWT
 <br>
--> yarn add jsonwebtoken 
+-> yarn add jsonwebtoken
+<br>
 -> yarn add @types/jsonwebtoken -D
 
 Instalar biblioteca de criptografia de senha 
 <br>
 -> yarn add bcryptjs
+<br>
 -> yarn add @types/bcryptjs -D
 
 
