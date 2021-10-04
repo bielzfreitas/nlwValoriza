@@ -110,6 +110,19 @@ Instalar biblioteca para lidar com erros
 <br>
 -> yarn add express-async-errors
 
+Instalar biblioteca de token JWT
+<br>
+- yarn add jsonwebtoken 
+- yarn add @types/jsonwebtoken -D
+
+Instalar biblioteca de criptografia de senha 
+<br>
+- yarn add bcryptjs
+- yarn add @types/bcryptjs -D
+
+
+
+
 Iniciar o servidor com script
 <br>
 -> yarn start
