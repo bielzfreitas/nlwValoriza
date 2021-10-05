@@ -122,6 +122,15 @@ Instalar biblioteca de criptografia de senha
 <br>
 -> yarn add @types/bcryptjs -D
 
+Biblioteca de customização
+<br>
+-> yarn add class-transformer
+
+Testar com front-end
+<br>
+-> yarn add cars
+<br>
+-> yarn add @types/cars -D
 
 
 
